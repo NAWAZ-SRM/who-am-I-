@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+
+}
+
+.top {
+    height: 40rem;
+    background-color: #CFF5E7;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: 'DM Serif Display', serif;
+    font-size: 3rem;
+}
+
+h2 {
+    
+    color: #a37836;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 2rem;
+    text-shadow: 2px 2px 5px #a37836;
+}
+
+h3 {
+    font-family: 'Gelasio', serif;
+    font-size: 1.5rem;
+}
+
+P {
+    font-family: 'Noticia Text', serif;
+    font-size: 1.25rem;
+}
+
+.p {
+    position: relative;
+    text-align: center;
+    color: black;
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 2rem;
+
+}
+
+.h1 {
+    color: #a37836;
+    font-size: 5.562rem;
+    font-family: 'Kaushan Script', cursive;
+    text-shadow: 3px 3px 6px #a37836;
+}
+
+.cloud1 {
+    position: relative;
+    top: 8rem;
+    left: 35rem;
+}
+
+.mountain {
+    position: relative;
+    left: 30rem;
+    top: 1rem;
+}
+
+.cloud2 {
+    position: relative;
+    left: 65rem;
+    bottom: 14rem;
+}
+
+.cloud3 {
+    position: relative;
+    left: 60rem;
+    bottom: 28rem;
+}
+
+.cloud4 {
+    position: relative;
+    bottom: 10rem;
+    right: 58rem;
+}
+
+
+.middle-container {
+    background-color: #A0E4CB;
+
+}
+
+.prof {
+    position: relative;
+    left: 52.5rem;
+    top: 2rem;
+}
+
+
+
+.chilli {
+    position: relative;
+    left: 47rem;
+    top: 2rem;
+
+}
+
+.computer {
+    position: relative;
+    left: 47rem;
+    top: 2rem;
+}
+
+.contact-me {
+    background-color: #9ED5C5;
+
+}
+
+.bottom-container {
+    background-color: #9ED5C5;
+    margin-bottom: 0%;
+
+}
+
+.btn {
+    margin-left: 55rem;
+
+}
+.button{
+    background-color: #9ED5C5;
+   
+        background-color:  #4CAF50;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+      
+}
+a:link, a:visited {
+    background-color: #a37836;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+  a:hover, a:active {
+    background-color: #9ED5C5;
+    color: black;
+  }
